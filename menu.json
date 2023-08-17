@@ -1,0 +1,8 @@
+{
+            "FoodID": food_id,
+            "Name": name,
+            "Quantity": quantity,
+            "Price": price,
+            "Discount": discount,
+            "Stock": stock
+}
