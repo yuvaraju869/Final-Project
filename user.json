@@ -1,8 +1,0 @@
-{
-            "Full Name": full_name,
-            "Phone Number": phone_number,
-            "Email": email,
-            "Address": address,
-            "Password": password,
-            "Order History": []
-}
